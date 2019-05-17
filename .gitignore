@@ -9,7 +9,7 @@
 .idea/
 bin/
 tmp/
-*.tmpgit
+*.tmp
 *.bak
 *.swp
 *~.nib
